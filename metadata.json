@@ -1,0 +1,10 @@
+{
+  "name": "Sheldon Cooper Presents: Fun with Flags!",
+  "description": "Interactive vexillology web app featuring Dr. Sheldon Cooper and Dr. Amy Farrah Fowler with AI flag scanner, vexillological breakdown, flag quiz challenge, and match-or-clash comparisons.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
